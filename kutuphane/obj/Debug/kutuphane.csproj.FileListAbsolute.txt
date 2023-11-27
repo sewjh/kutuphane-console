@@ -1,0 +1,7 @@
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.AssemblyReference.cache
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\SEMIH\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
